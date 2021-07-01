@@ -4,7 +4,7 @@ import bahasa6_interp
 
 from sys import *
 
-#DENGAN MASUKAN EKSTENSI .COD
+#DENGAN MASUKAN EKSTENSI .six
 lexer = bahasa6_lexer.BasicLexer()
 parser = bahasa6_parser.BasicParser()
 env = {}
